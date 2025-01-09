@@ -1,4 +1,4 @@
-# React Social Media App
+<img width="1512" alt="createpost" src="https://github.com/user-attachments/assets/583c86e6-a31a-4bae-9b10-01c857ddeb40" /><img width="1500" alt="main" src="https://github.com/user-attachments/assets/07b8fb43-14ba-4e80-80f1-923ab8367d79" /># React Social Media App
 
 A simple and interactive social media web application built using React, TypeScript, and Firebase. This project allows users to authenticate with Google, view and create posts, and interact with the posts by liking them. All data is stored and managed using Firebase's real-time database and authentication.
 
@@ -9,18 +9,18 @@ A simple and interactive social media web application built using React, TypeScr
 1. **Google Authentication**:
    - Users can sign in using their Google accounts via Firebase Authentication.
    - Displays the user's Google profile picture and name after login.
-
+<img width="989" alt="landing" src="https://github.com/user-attachments/assets/7a961609-290a-45e5-a176-15053dda8166" />
 2. **Create and View Posts**:
    - Users can create posts with a title and description.
    - Posts are displayed on the main page and stored in Firebase Firestore.
-
+<img width="1500" alt="main" src="https://github.com/user-attachments/assets/b78508d4-1261-4a4c-9a29-200ba3dc3a54" />
 3. **Like Functionality**:
    - Each post includes a like button that allows users to like a post.
    - Likes are tracked to ensure each user can like a post only once.
-
+<img width="1512" alt="createpost" src="https://github.com/user-attachments/assets/c245e6a1-6d66-4ffc-8a21-1029cdfc8e98" />
 4. **Real-time Updates**:
    - All posts and likes are stored in Firebase Firestore and updated in real time on the app.
-
+<img width="1450" alt="firebase" src="https://github.com/user-attachments/assets/65bffc80-072e-4408-8555-11478d6ea0ca" />
 ---
 
 ## Project Structure
