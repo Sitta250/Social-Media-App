@@ -21,7 +21,7 @@ Users can create posts with a title and description. Posts are displayed on the 
 ### 3. Like Functionality
 Each post includes a like button that allows users to like a post. Likes are tracked to ensure that each user can like a post only once.
 
-![Like Post Functionality](https://github.com/user-attachments/assets/c245e6a1-6d66-4ffc-8a21-1029cdfc8e98)
+![Like Post Functionality](https://github.com/user-attachments/assets/d18a17c4-296a-4bac-9cbf-64be6b861233)
 
 ### 4. Real-time Updates
 All posts and likes are stored in Firebase Firestore and updated in real time on the app.
